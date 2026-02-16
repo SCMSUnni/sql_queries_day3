@@ -1,7 +1,5 @@
 # 🛒 E-Commerce SQL Database Analysis
 
-This repository contains SQL scripts and queries developed as part of an academic/internship task focused on **E-Commerce database analysis using MySQL**.
-
 The project demonstrates core SQL concepts such as:
 - Database creation
 - Data querying
@@ -164,8 +162,3 @@ CREATE INDEX idx_country ON customers(Country(50));
 - Writing clean, readable, and interview-ready SQL
 
 ---
-
-## 📌 Author
-
-**AI Unni**  
-E-Commerce SQL Assignment / Internship Task
